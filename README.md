@@ -5,3 +5,5 @@
 this is exiting to have this branch of feature
 
 this is part of another-branch
+
+and now my branch should be visible with the git push origin HEAD
